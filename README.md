@@ -4,10 +4,10 @@ Senior Cloud DevOps Engineer with **8+ years of experience** designing, automati
 
 ## 🧑‍💻 About Me
 
-Results-driven DevOps Engineer specializing in Kubernetes, Terraform, CI/CD, and monitoring solutions.
+Results-driven DevOps Engineer specializing in Kubernetes, Docker, Terraform, CI/CD, Infrastructre Setup and Monitoring solutions.
 
-- 📍 Jalandhar, India  
-- 📧 nitin pant91@yahoo.com  
+- 📍 Mohali(Punjab), India  
+- 📧 nitin_pant91@yahoo.com  
 - 🔗 LinkedIn: https://linkedin.com/in/nitin-pant-249915101  
 
 ---
