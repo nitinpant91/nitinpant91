@@ -1,102 +1,46 @@
-🚀 Nitin Pant | Cloud & DevOps Engineer
+# 🚀 Nitin Pant | Cloud & DevOps Engineer
 
-Senior Cloud DevOps Engineer with 8+ years of experience designing, automating, and managing scalable infrastructure across AWS, Azure, and GCP.
+Senior Cloud DevOps Engineer with **8+ years of experience** designing, automating, and managing scalable infrastructure across **AWS, Azure, and GCP**.
 
-💡 Specialized in:
+## 🧑‍💻 About Me
 
-Kubernetes & container orchestration
-Infrastructure as Code (Terraform)
-CI/CD pipeline automation
-Monitoring & observability (Grafana, Prometheus, Loki)
-Cloud migration & system optimization
-🧑‍💻 About Me
+Results-driven DevOps Engineer specializing in Kubernetes, Terraform, CI/CD, and monitoring solutions.
 
-I am a results-driven DevOps Engineer with strong expertise in building highly available, secure, and scalable systems. I have worked across multi-cloud environments and helped organizations reduce costs, improve performance, and automate operations.
+- 📍 Jalandhar, India  
+- 📧 nitin pant91@yahoo.com  
+- 🔗 LinkedIn: https://linkedin.com/in/nitin-pant-249915101  
 
-📍 Location: Jalandhar, India
-📧 Email: nitin pant91@yahoo.com
+---
 
-🔗 LinkedIn: https://linkedin.com/in/nitin-pant-249915101
+## 🧰 Tech Stack
 
-🧰 Tech Stack
-☁️ Cloud Platforms
-AWS | Azure | GCP
-📦 Containers & Orchestration
-Docker
-Kubernetes
-⚙️ DevOps & CI/CD
-Jenkins
-GitHub Actions
-Git
-🏗️ Infrastructure as Code
-Terraform
-🔧 Configuration Management
-Ansible
-📊 Monitoring & Logging
-Grafana
-Prometheus
-Loki
-💻 Scripting
-Bash / Shell
-🖥️ OS & Servers
-Linux (RHEL, Ubuntu, CentOS)
-Windows Server
-Nginx | Apache
-🏗️ Architecture Overview
-📂 Repository Structure
-.
-├── Documents_setup/     # Installation & infrastructure setup guides
-├── Grafana_setup/       # Monitoring dashboards & configurations
-├── Other_script/        # Automation & utility scripts
-└── README.md
-🚀 Key Expertise
+**Cloud:** AWS, Azure, GCP  
+**Containers:** Docker, Kubernetes  
+**CI/CD:** Jenkins, GitHub Actions  
+**IaC:** Terraform  
+**Config Management:** Ansible  
+**Monitoring:** Grafana, Prometheus, Loki  
+**OS:** Linux, Windows Server  
 
-✔ Multi-Cloud Infrastructure Design (AWS, Azure, GCP)
-✔ Kubernetes Deployment & Management
-✔ CI/CD Pipeline Automation
-✔ Infrastructure Automation using Terraform
-✔ Monitoring & Logging Implementation
-✔ Cloud Migration (On-Prem → Cloud)
-✔ Linux System Administration
-✔ Security Hardening & Compliance
+--
+## 🚀 Key Expertise
 
-💼 Professional Experience Highlights
-🔹 Senior Cloud DevOps Engineer
-Managed multi-cloud infrastructure ensuring high availability
-Built CI/CD pipelines using Jenkins & Docker
-Implemented monitoring with Grafana, Prometheus, Loki
-Automated infrastructure using Terraform
-Led cloud migration projects improving scalability & cost efficiency
-🔹 Server Administrator
-Managed hybrid infrastructure (on-prem + cloud)
-Automated deployments with Ansible
-Achieved 99.5% uptime for critical systems
-🔹 Linux Administrator
-Managed AWS services (EC2, RDS, Load Balancer)
-Implemented HAProxy & monitoring systems
-Automated backup and deployment workflows
-📊 DevOps Workflow
-📜 Certifications
-🏅 AWS Certified Solutions Architect
-🏅 Red Hat Certified Engineer (RHCE)
-🎯 What I Bring
-Production-grade infrastructure design
-Strong troubleshooting & L3 support expertise
-Automation-first mindset
-Scalable and cost-optimized cloud solutions
-Team collaboration & leadership
-🤝 Let’s Connect
+- Multi-Cloud Infrastructure  
+- Kubernetes & Docker  
+- CI/CD Automation  
+- Terraform (IaC)  
+- Monitoring & Logging  
+- Cloud Migration  
 
-If you're looking for a DevOps Engineer / Cloud Architect, feel free to connect:
+---
 
-📧 nitin pant91@yahoo.com
+## 📜 Certifications
 
-🔗 https://linkedin.com/in/nitin-pant-249915101
+- AWS Certified Solutions Architect  
+- RHCE  
 
-📄 License
+---
 
-This repository is for professional and educational use.
+## 👨‍💻 Author
 
-👨‍💻 Author
-
-Nitin Pant
+**Nitin Pant**
